@@ -1,0 +1,14 @@
+
+{
+    "C_Cpp.default.includePath": [
+        "C:\\MinGW\\include",
+        "C:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\6.3.0-1\\include",
+        "C:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\6.3.0-1\\include-fixed",
+        "C:\\MinGW\\x86_64-w64-mingw32\\include"
+    ],
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe"
+}
+
+
+
